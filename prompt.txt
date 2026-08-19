@@ -1,0 +1,2 @@
+remove the AI architecture in the part in the frontend 
+and remove the demo pitch and remove all the SIh related terms for ptototype and any non related terms 
